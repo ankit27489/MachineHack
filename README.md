@@ -1,2 +1,2 @@
 # MachineHack
-Contains projects worked on of MachineHack
+Contains projects worked on MachineHack Hackathons
